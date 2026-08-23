@@ -1,0 +1,6 @@
+{
+  "name": "Pavani Mutyala Portfolio",
+  "description": "Personal portfolio website for Pavani Mutyala, a final-year B.Tech Computer Science student specializing in MERN Stack + Generative AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
