@@ -275,16 +275,9 @@ export const certificationsList = [
     description: "Applied Python for end-to-end ML pipelines — data preprocessing, feature engineering, and model evaluation using scikit-learn, NumPy, and Pandas on real-world datasets.",
     certificateUrl: "https://drive.google.com/file/d/1_iZnLQHQia07pI24akeAt4xEeVu4zD2b/view?usp=sharing"
   },
+  
   {
     id: 4,
-    title: "AWS Virtual Internship Certification",
-    issuer: "AWS",
-    logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
-    description: "Completed virtual cloud engineering tasks on AWS — deploying scalable solutions with EC2, S3, and Lambda while applying architectural best practices and cloud security principles.",
-    certificateUrl: "https://drive.google.com/file/d/1R9IYg00mxZzN5Kd_kOD-4QEhy_M358Bn/view?usp=sharing"
-  },
-  {
-    id: 5,
     title: "Deloitte Technology Virtual Internship",
     issuer: "Deloitte",
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_of_Deloitte.svg",
@@ -292,7 +285,7 @@ export const certificationsList = [
     certificateUrl: "https://drive.google.com/file/d/1n0D9IqBtDdhNqDUlRveoLUAKN_AhLvwl/view?usp=sharing"
   },
   {
-    id: 6,
+    id: 5,
     title: "TATA Virtual Internship",
     issuer: "TATA",
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tata_logo.svg",
@@ -300,7 +293,7 @@ export const certificationsList = [
     certificateUrl: "https://drive.google.com/file/d/1lSZmlqaR83kO890eLljRmfOVioRZuQXW/view?usp=sharing"
   },
   {
-    id: 7,
+    id: 6,
     title: "Google Analytics Certification",
     issuer: "Google",
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
@@ -308,7 +301,7 @@ export const certificationsList = [
     certificateUrl: "https://drive.google.com/file/d/1YTa-omkD50fmbJk72lsZmf4jSDmi0aw_/view?usp=sharing"
   },
   {
-    id: 8,
+    id: 7,
     title: "MongoDB Certified Developer",
     issuer: "MongoDB",
     logoUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
