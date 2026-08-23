@@ -438,7 +438,7 @@ SKILLS & TECHNOLOGY STACK
             {/* Modal Footer with Actions */}
             <div className="resume-modal-footer">
               <a
-                href="https://drive.google.com/file/d/1Ssy8wCvemzcHjIYLUZhfMcaX2dX5CNLg/view?usp=sharing"
+                href="https://drive.google.com/file/d/1EZV8GeijI27mJlu4d8QJri7r5LZFk4Jm/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-secondary"
